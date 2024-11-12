@@ -2465,10 +2465,10 @@ ms@^2.1.1, ms@^2.1.3:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-mui-tiptap-editor@^0.9.28:
-  version "0.9.28"
-  resolved "https://registry.yarnpkg.com/mui-tiptap-editor/-/mui-tiptap-editor-0.9.28.tgz#b7ad996f5568f56a9d971a71a871161281370836"
-  integrity sha512-FyBrFu+LE0w+TbPCoYXV8PPXl0OTvn/J69UB13HK0ToVsIw1LqU1CTZ/0Gwx31DQzF3h9g0n2JC6/BS82a7K9g==
+mui-tiptap-editor@^0.9.29:
+  version "0.9.29"
+  resolved "https://registry.yarnpkg.com/mui-tiptap-editor/-/mui-tiptap-editor-0.9.29.tgz#c2970e0ce570d3836be19d81dc38362142f28c2f"
+  integrity sha512-ETfPLIPinl2AcmShwD0Q+1ITDSwaPEkceexuJYiu6f/QgqPNvmzhCWO9BPtZzh5KUHnKw8Vp1wPM7Wk2aux3pA==
   dependencies:
     "@emotion/css" "^11.13.4"
     "@tiptap/extension-bubble-menu" "^2.9.1"
