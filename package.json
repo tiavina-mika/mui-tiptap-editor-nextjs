@@ -2,6 +2,15 @@
   "name": "mui-tiptap-editor-nextjs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/tiavina-mika/mui-tiptap-editor",
+  "bugs": {
+    "url": "https://github.com/tiavina-mika/mui-tiptap-editor/issues"
+  },
+  "author": {
+    "name": "Tiavina Michael Ralainirina",
+    "email": "tiavinamika@gmail.com",
+    "github": "https://github.com/tiavina-mika"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
