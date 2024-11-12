@@ -12,15 +12,15 @@ export const meta: Metadata = {
 const HomePage = () => {
   return (
     <ThemeProvider>
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <h1>mui-tiptap-editor with Next.js 14/15</h1>
-        <div>
-          <MuiTiptapEditor />
-        </div>
-      </main>
-      <Footer />
-    </div>
+      <div className={styles.page}>
+        <main className={styles.main}>
+          <h1>mui-tiptap-editor with Next.js 14/15</h1>
+          <div>
+            <MuiTiptapEditor />
+          </div>
+        </main>
+        <Footer />
+      </div>
     </ThemeProvider>
   );
 }
